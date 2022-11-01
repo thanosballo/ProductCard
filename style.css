@@ -22,6 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     color: var(--darkgreyblue);
+    font-family: 'Fraunces','Montserrat';
 }
 
 main {
